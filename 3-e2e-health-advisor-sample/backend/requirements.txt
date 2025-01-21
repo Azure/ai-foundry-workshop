@@ -2,7 +2,7 @@
 azure-ai-projects>=1.0.0b5
 azure-ai-evaluation>=1.0.0b5
 azure-search-documents==11.4.0
-azure-identity==1.16.0
+azure-identity==1.16.1
 
 # FastAPI and Web Server
 fastapi>=0.109.2,<0.110.0
